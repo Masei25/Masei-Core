@@ -1,0 +1,11 @@
+{
+    "description": "A simple PHP framework for web development",
+    "name": "hp/masei-core",
+    "authors": [ 
+        {
+            "name": "Olu-Sammy",
+            "email": "masei25@gmail.com"
+        }
+    ],
+    "require": {}
+}
